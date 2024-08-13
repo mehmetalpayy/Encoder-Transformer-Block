@@ -5,7 +5,7 @@
 Welcome to the **Encoder-Transformer-Block** repository. This project implements an Encoder Transformer block from scratch using PyTorch, without relying on pre-built transformer modules. This implementation is designed for use in a larger transformer-based model for natural language processing tasks.
 
 <p align="center">
-  <img src="Encoder_Transformer_Block.png" alt="Encoder Transformer Block" width="60%" height="50%">
+  <img src="Encoder_Transformer_Block.png" alt="Encoder Transformer Block" width="60%" height="auto">
 </p>
 
 ## Task Description
